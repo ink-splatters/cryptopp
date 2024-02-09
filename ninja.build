@@ -1,0 +1,531 @@
+rule regtest4_o_rule
+  command = GNUmakefile:1795: update target 'regtest4.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c regtest4.cpp
+build regtest4.o: regtest4_o_rule regtest4.cpp 
+rule regtest3_o_rule
+  command = GNUmakefile:1795: update target 'regtest3.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c regtest3.cpp
+build regtest3.o: regtest3_o_rule regtest3.cpp 
+rule regtest2_o_rule
+  command = GNUmakefile:1795: update target 'regtest2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c regtest2.cpp
+build regtest2.o: regtest2_o_rule regtest2.cpp 
+rule regtest1_o_rule
+  command = GNUmakefile:1795: update target 'regtest1.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c regtest1.cpp
+build regtest1.o: regtest1_o_rule regtest1.cpp 
+rule validat10_o_rule
+  command = GNUmakefile:1795: update target 'validat10.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat10.cpp
+build validat10.o: validat10_o_rule validat10.cpp 
+rule validat9_o_rule
+  command = GNUmakefile:1795: update target 'validat9.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat9.cpp
+build validat9.o: validat9_o_rule validat9.cpp 
+rule validat8_o_rule
+  command = GNUmakefile:1795: update target 'validat8.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat8.cpp
+build validat8.o: validat8_o_rule validat8.cpp 
+rule validat7_o_rule
+  command = GNUmakefile:1795: update target 'validat7.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat7.cpp
+build validat7.o: validat7_o_rule validat7.cpp 
+rule validat6_o_rule
+  command = GNUmakefile:1795: update target 'validat6.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat6.cpp
+build validat6.o: validat6_o_rule validat6.cpp 
+rule validat5_o_rule
+  command = GNUmakefile:1795: update target 'validat5.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat5.cpp
+build validat5.o: validat5_o_rule validat5.cpp 
+rule validat4_o_rule
+  command = GNUmakefile:1795: update target 'validat4.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat4.cpp
+build validat4.o: validat4_o_rule validat4.cpp 
+rule validat3_o_rule
+  command = GNUmakefile:1795: update target 'validat3.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat3.cpp
+build validat3.o: validat3_o_rule validat3.cpp 
+rule validat2_o_rule
+  command = GNUmakefile:1795: update target 'validat2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat2.cpp
+build validat2.o: validat2_o_rule validat2.cpp 
+rule validat1_o_rule
+  command = GNUmakefile:1780: update target 'validat1.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat1.cpp
+build validat1.o: validat1_o_rule validat1.cpp 
+rule validat0_o_rule
+  command = GNUmakefile:1795: update target 'validat0.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c validat0.cpp
+build validat0.o: validat0_o_rule validat0.cpp 
+rule fipsalgt_o_rule
+  command = GNUmakefile:1795: update target 'fipsalgt.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c fipsalgt.cpp
+build fipsalgt.o: fipsalgt_o_rule fipsalgt.cpp 
+rule dlltest_o_rule
+  command = GNUmakefile:1795: update target 'dlltest.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c dlltest.cpp
+build dlltest.o: dlltest_o_rule dlltest.cpp 
+rule datatest_o_rule
+  command = GNUmakefile:1795: update target 'datatest.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c datatest.cpp
+build datatest.o: datatest_o_rule datatest.cpp 
+rule bench3_o_rule
+  command = GNUmakefile:1795: update target 'bench3.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c bench3.cpp
+build bench3.o: bench3_o_rule bench3.cpp 
+rule bench2_o_rule
+  command = GNUmakefile:1795: update target 'bench2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c bench2.cpp
+build bench2.o: bench2_o_rule bench2.cpp 
+rule bench1_o_rule
+  command = GNUmakefile:1795: update target 'bench1.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c bench1.cpp
+build bench1.o: bench1_o_rule bench1.cpp 
+rule test_o_rule
+  command = GNUmakefile:1795: update target 'test.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c test.cpp
+build test.o: test_o_rule test.cpp 
+rule adhoc_cpp_rule
+  command = GNUmakefile:1623: update target 'adhoc.cpp' due to: adhoc.cpp.proto && touch adhoc.cpp
+build adhoc.cpp: adhoc_cpp_rule adhoc.cpp.proto 
+rule adhoc_o_rule
+  command = GNUmakefile:1795: update target 'adhoc.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c adhoc.cpp
+build adhoc.o: adhoc_o_rule adhoc.cpp 
+rule zlib_o_rule
+  command = GNUmakefile:1795: update target 'zlib.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c zlib.cpp
+build zlib.o: zlib_o_rule zlib.cpp 
+rule zinflate_o_rule
+  command = GNUmakefile:1795: update target 'zinflate.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c zinflate.cpp
+build zinflate.o: zinflate_o_rule zinflate.cpp 
+rule zdeflate_o_rule
+  command = GNUmakefile:1795: update target 'zdeflate.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c zdeflate.cpp
+build zdeflate.o: zdeflate_o_rule zdeflate.cpp 
+rule xts_o_rule
+  command = GNUmakefile:1795: update target 'xts.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c xts.cpp
+build xts.o: xts_o_rule xts.cpp 
+rule xtrcrypt_o_rule
+  command = GNUmakefile:1795: update target 'xtrcrypt.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c xtrcrypt.cpp
+build xtrcrypt.o: xtrcrypt_o_rule xtrcrypt.cpp 
+rule xtr_o_rule
+  command = GNUmakefile:1795: update target 'xtr.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c xtr.cpp
+build xtr.o: xtr_o_rule xtr.cpp 
+rule xed25519_o_rule
+  command = GNUmakefile:1795: update target 'xed25519.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c xed25519.cpp
+build xed25519.o: xed25519_o_rule xed25519.cpp 
+rule whrlpool_o_rule
+  command = GNUmakefile:1795: update target 'whrlpool.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c whrlpool.cpp
+build whrlpool.o: whrlpool_o_rule whrlpool.cpp 
+rule wake_o_rule
+  command = GNUmakefile:1795: update target 'wake.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c wake.cpp
+build wake.o: wake_o_rule wake.cpp 
+rule vmac_o_rule
+  command = GNUmakefile:1795: update target 'vmac.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c vmac.cpp
+build vmac.o: vmac_o_rule vmac.cpp 
+rule twofish_o_rule
+  command = GNUmakefile:1795: update target 'twofish.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c twofish.cpp
+build twofish.o: twofish_o_rule twofish.cpp 
+rule tweetnacl_o_rule
+  command = GNUmakefile:1795: update target 'tweetnacl.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c tweetnacl.cpp
+build tweetnacl.o: tweetnacl_o_rule tweetnacl.cpp 
+rule ttmac_o_rule
+  command = GNUmakefile:1795: update target 'ttmac.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ttmac.cpp
+build ttmac.o: ttmac_o_rule ttmac.cpp 
+rule tigertab_o_rule
+  command = GNUmakefile:1795: update target 'tigertab.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c tigertab.cpp
+build tigertab.o: tigertab_o_rule tigertab.cpp 
+rule tiger_o_rule
+  command = GNUmakefile:1795: update target 'tiger.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c tiger.cpp
+build tiger.o: tiger_o_rule tiger.cpp 
+rule threefish_o_rule
+  command = GNUmakefile:1795: update target 'threefish.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c threefish.cpp
+build threefish.o: threefish_o_rule threefish.cpp 
+rule tftables_o_rule
+  command = GNUmakefile:1795: update target 'tftables.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c tftables.cpp
+build tftables.o: tftables_o_rule tftables.cpp 
+rule tea_o_rule
+  command = GNUmakefile:1795: update target 'tea.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c tea.cpp
+build tea.o: tea_o_rule tea.cpp 
+rule strciphr_o_rule
+  command = GNUmakefile:1795: update target 'strciphr.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c strciphr.cpp
+build strciphr.o: strciphr_o_rule strciphr.cpp 
+rule squaretb_o_rule
+  command = GNUmakefile:1795: update target 'squaretb.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c squaretb.cpp
+build squaretb.o: squaretb_o_rule squaretb.cpp 
+rule square_o_rule
+  command = GNUmakefile:1795: update target 'square.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c square.cpp
+build square.o: square_o_rule square.cpp 
+rule speck_o_rule
+  command = GNUmakefile:1795: update target 'speck.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c speck.cpp
+build speck.o: speck_o_rule speck.cpp 
+rule sosemanuk_o_rule
+  command = GNUmakefile:1795: update target 'sosemanuk.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c sosemanuk.cpp
+build sosemanuk.o: sosemanuk_o_rule sosemanuk.cpp 
+rule sm4_o_rule
+  command = GNUmakefile:1795: update target 'sm4.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c sm4.cpp
+build sm4.o: sm4_o_rule sm4.cpp 
+rule sm3_o_rule
+  command = GNUmakefile:1795: update target 'sm3.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c sm3.cpp
+build sm3.o: sm3_o_rule sm3.cpp 
+rule skipjack_o_rule
+  command = GNUmakefile:1795: update target 'skipjack.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c skipjack.cpp
+build skipjack.o: skipjack_o_rule skipjack.cpp 
+rule simon_o_rule
+  command = GNUmakefile:1795: update target 'simon.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c simon.cpp
+build simon.o: simon_o_rule simon.cpp 
+rule simeck_o_rule
+  command = GNUmakefile:1795: update target 'simeck.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c simeck.cpp
+build simeck.o: simeck_o_rule simeck.cpp 
+rule sharkbox_o_rule
+  command = GNUmakefile:1795: update target 'sharkbox.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c sharkbox.cpp
+build sharkbox.o: sharkbox_o_rule sharkbox.cpp 
+rule shark_o_rule
+  command = GNUmakefile:1795: update target 'shark.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c shark.cpp
+build shark.o: shark_o_rule shark.cpp 
+rule shake_o_rule
+  command = GNUmakefile:1795: update target 'shake.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c shake.cpp
+build shake.o: shake_o_rule shake.cpp 
+rule shacal2_o_rule
+  command = GNUmakefile:1795: update target 'shacal2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c shacal2.cpp
+build shacal2.o: shacal2_o_rule shacal2.cpp 
+rule sha3_o_rule
+  command = GNUmakefile:1795: update target 'sha3.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c sha3.cpp
+build sha3.o: sha3_o_rule sha3.cpp 
+rule sha_o_rule
+  command = GNUmakefile:1795: update target 'sha.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c sha.cpp
+build sha.o: sha_o_rule sha.cpp 
+rule serpent_o_rule
+  command = GNUmakefile:1795: update target 'serpent.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c serpent.cpp
+build serpent.o: serpent_o_rule serpent.cpp 
+rule seed_o_rule
+  command = GNUmakefile:1795: update target 'seed.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c seed.cpp
+build seed.o: seed_o_rule seed.cpp 
+rule seal_o_rule
+  command = GNUmakefile:1795: update target 'seal.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c seal.cpp
+build seal.o: seal_o_rule seal.cpp 
+rule scrypt_o_rule
+  command = GNUmakefile:1795: update target 'scrypt.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c scrypt.cpp
+build scrypt.o: scrypt_o_rule scrypt.cpp 
+rule salsa_o_rule
+  command = GNUmakefile:1795: update target 'salsa.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c salsa.cpp
+build salsa.o: salsa_o_rule salsa.cpp 
+rule safer_o_rule
+  command = GNUmakefile:1795: update target 'safer.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c safer.cpp
+build safer.o: safer_o_rule safer.cpp 
+rule rw_o_rule
+  command = GNUmakefile:1795: update target 'rw.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rw.cpp
+build rw.o: rw_o_rule rw.cpp 
+rule rsa_o_rule
+  command = GNUmakefile:1795: update target 'rsa.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rsa.cpp
+build rsa.o: rsa_o_rule rsa.cpp 
+rule rng_o_rule
+  command = GNUmakefile:1795: update target 'rng.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rng.cpp
+build rng.o: rng_o_rule rng.cpp 
+rule ripemd_o_rule
+  command = GNUmakefile:1795: update target 'ripemd.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ripemd.cpp
+build ripemd.o: ripemd_o_rule ripemd.cpp 
+rule rijndael_o_rule
+  command = GNUmakefile:1795: update target 'rijndael.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rijndael.cpp
+build rijndael.o: rijndael_o_rule rijndael.cpp 
+rule rdtables_o_rule
+  command = GNUmakefile:1795: update target 'rdtables.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rdtables.cpp
+build rdtables.o: rdtables_o_rule rdtables.cpp 
+rule rdrand_o_rule
+  command = GNUmakefile:1795: update target 'rdrand.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rdrand.cpp
+build rdrand.o: rdrand_o_rule rdrand.cpp 
+rule rc6_o_rule
+  command = GNUmakefile:1795: update target 'rc6.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rc6.cpp
+build rc6.o: rc6_o_rule rc6.cpp 
+rule rc5_o_rule
+  command = GNUmakefile:1795: update target 'rc5.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rc5.cpp
+build rc5.o: rc5_o_rule rc5.cpp 
+rule rc2_o_rule
+  command = GNUmakefile:1795: update target 'rc2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rc2.cpp
+build rc2.o: rc2_o_rule rc2.cpp 
+rule randpool_o_rule
+  command = GNUmakefile:1795: update target 'randpool.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c randpool.cpp
+build randpool.o: randpool_o_rule randpool.cpp 
+rule rabin_o_rule
+  command = GNUmakefile:1795: update target 'rabin.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rabin.cpp
+build rabin.o: rabin_o_rule rabin.cpp 
+rule rabbit_o_rule
+  command = GNUmakefile:1795: update target 'rabbit.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c rabbit.cpp
+build rabbit.o: rabbit_o_rule rabbit.cpp 
+rule queue_o_rule
+  command = GNUmakefile:1795: update target 'queue.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c queue.cpp
+build queue.o: queue_o_rule queue.cpp 
+rule pubkey_o_rule
+  command = GNUmakefile:1795: update target 'pubkey.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c pubkey.cpp
+build pubkey.o: pubkey_o_rule pubkey.cpp 
+rule pssr_o_rule
+  command = GNUmakefile:1795: update target 'pssr.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c pssr.cpp
+build pssr.o: pssr_o_rule pssr.cpp 
+rule primetab_o_rule
+  command = GNUmakefile:1795: update target 'primetab.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c primetab.cpp
+build primetab.o: primetab_o_rule primetab.cpp 
+rule polynomi_o_rule
+  command = GNUmakefile:1795: update target 'polynomi.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c polynomi.cpp
+build polynomi.o: polynomi_o_rule polynomi.cpp 
+rule poly1305_o_rule
+  command = GNUmakefile:1795: update target 'poly1305.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c poly1305.cpp
+build poly1305.o: poly1305_o_rule poly1305.cpp 
+rule pkcspad_o_rule
+  command = GNUmakefile:1795: update target 'pkcspad.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c pkcspad.cpp
+build pkcspad.o: pkcspad_o_rule pkcspad.cpp 
+rule panama_o_rule
+  command = GNUmakefile:1795: update target 'panama.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c panama.cpp
+build panama.o: panama_o_rule panama.cpp 
+rule padlkrng_o_rule
+  command = GNUmakefile:1795: update target 'padlkrng.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c padlkrng.cpp
+build padlkrng.o: padlkrng_o_rule padlkrng.cpp 
+rule osrng_o_rule
+  command = GNUmakefile:1795: update target 'osrng.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c osrng.cpp
+build osrng.o: osrng_o_rule osrng.cpp 
+rule oaep_o_rule
+  command = GNUmakefile:1795: update target 'oaep.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c oaep.cpp
+build oaep.o: oaep_o_rule oaep.cpp 
+rule nbtheory_o_rule
+  command = GNUmakefile:1795: update target 'nbtheory.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c nbtheory.cpp
+build nbtheory.o: nbtheory_o_rule nbtheory.cpp 
+rule mqv_o_rule
+  command = GNUmakefile:1795: update target 'mqv.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c mqv.cpp
+build mqv.o: mqv_o_rule mqv.cpp 
+rule mqueue_o_rule
+  command = GNUmakefile:1795: update target 'mqueue.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c mqueue.cpp
+build mqueue.o: mqueue_o_rule mqueue.cpp 
+rule modes_o_rule
+  command = GNUmakefile:1795: update target 'modes.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c modes.cpp
+build modes.o: modes_o_rule modes.cpp 
+rule misc_o_rule
+  command = GNUmakefile:1795: update target 'misc.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c misc.cpp
+build misc.o: misc_o_rule misc.cpp 
+rule md5_o_rule
+  command = GNUmakefile:1795: update target 'md5.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c md5.cpp
+build md5.o: md5_o_rule md5.cpp 
+rule md4_o_rule
+  command = GNUmakefile:1795: update target 'md4.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c md4.cpp
+build md4.o: md4_o_rule md4.cpp 
+rule md2_o_rule
+  command = GNUmakefile:1795: update target 'md2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c md2.cpp
+build md2.o: md2_o_rule md2.cpp 
+rule marss_o_rule
+  command = GNUmakefile:1795: update target 'marss.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c marss.cpp
+build marss.o: marss_o_rule marss.cpp 
+rule mars_o_rule
+  command = GNUmakefile:1795: update target 'mars.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c mars.cpp
+build mars.o: mars_o_rule mars.cpp 
+rule luc_o_rule
+  command = GNUmakefile:1795: update target 'luc.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c luc.cpp
+build luc.o: luc_o_rule luc.cpp 
+rule lsh512_o_rule
+  command = GNUmakefile:1795: update target 'lsh512.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c lsh512.cpp
+build lsh512.o: lsh512_o_rule lsh512.cpp 
+rule lsh256_o_rule
+  command = GNUmakefile:1795: update target 'lsh256.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c lsh256.cpp
+build lsh256.o: lsh256_o_rule lsh256.cpp 
+rule lea_o_rule
+  command = GNUmakefile:1795: update target 'lea.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c lea.cpp
+build lea.o: lea_o_rule lea.cpp 
+rule keccak_core_o_rule
+  command = GNUmakefile:1795: update target 'keccak_core.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c keccak_core.cpp
+build keccak_core.o: keccak_core_o_rule keccak_core.cpp 
+rule keccak_o_rule
+  command = GNUmakefile:1795: update target 'keccak.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c keccak.cpp
+build keccak.o: keccak_o_rule keccak.cpp 
+rule kalynatab_o_rule
+  command = GNUmakefile:1795: update target 'kalynatab.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c kalynatab.cpp
+build kalynatab.o: kalynatab_o_rule kalynatab.cpp 
+rule kalyna_o_rule
+  command = GNUmakefile:1795: update target 'kalyna.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c kalyna.cpp
+build kalyna.o: kalyna_o_rule kalyna.cpp 
+rule iterhash_o_rule
+  command = GNUmakefile:1795: update target 'iterhash.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c iterhash.cpp
+build iterhash.o: iterhash_o_rule iterhash.cpp 
+rule idea_o_rule
+  command = GNUmakefile:1795: update target 'idea.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c idea.cpp
+build idea.o: idea_o_rule idea.cpp 
+rule ida_o_rule
+  command = GNUmakefile:1795: update target 'ida.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ida.cpp
+build ida.o: ida_o_rule ida.cpp 
+rule hrtimer_o_rule
+  command = GNUmakefile:1795: update target 'hrtimer.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c hrtimer.cpp
+build hrtimer.o: hrtimer_o_rule hrtimer.cpp 
+rule hmac_o_rule
+  command = GNUmakefile:1795: update target 'hmac.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c hmac.cpp
+build hmac.o: hmac_o_rule hmac.cpp 
+rule hight_o_rule
+  command = GNUmakefile:1795: update target 'hight.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c hight.cpp
+build hight.o: hight_o_rule hight.cpp 
+rule hex_o_rule
+  command = GNUmakefile:1795: update target 'hex.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c hex.cpp
+build hex.o: hex_o_rule hex.cpp 
+rule hc256_o_rule
+  command = GNUmakefile:1795: update target 'hc256.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c hc256.cpp
+build hc256.o: hc256_o_rule hc256.cpp 
+rule hc128_o_rule
+  command = GNUmakefile:1795: update target 'hc128.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c hc128.cpp
+build hc128.o: hc128_o_rule hc128.cpp 
+rule gzip_o_rule
+  command = GNUmakefile:1795: update target 'gzip.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gzip.cpp
+build gzip.o: gzip_o_rule gzip.cpp 
+rule gost_o_rule
+  command = GNUmakefile:1795: update target 'gost.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gost.cpp
+build gost.o: gost_o_rule gost.cpp 
+rule gfpcrypt_o_rule
+  command = GNUmakefile:1795: update target 'gfpcrypt.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gfpcrypt.cpp
+build gfpcrypt.o: gfpcrypt_o_rule gfpcrypt.cpp 
+rule gf2n_o_rule
+  command = GNUmakefile:1795: update target 'gf2n.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gf2n.cpp
+build gf2n.o: gf2n_o_rule gf2n.cpp 
+rule gf2_32_o_rule
+  command = GNUmakefile:1795: update target 'gf2_32.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gf2_32.cpp
+build gf2_32.o: gf2_32_o_rule gf2_32.cpp 
+rule gf256_o_rule
+  command = GNUmakefile:1795: update target 'gf256.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gf256.cpp
+build gf256.o: gf256_o_rule gf256.cpp 
+rule gcm_o_rule
+  command = GNUmakefile:1795: update target 'gcm.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c gcm.cpp
+build gcm.o: gcm_o_rule gcm.cpp 
+rule fipstest_o_rule
+  command = GNUmakefile:1795: update target 'fipstest.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c fipstest.cpp
+build fipstest.o: fipstest_o_rule fipstest.cpp 
+rule fips140_o_rule
+  command = GNUmakefile:1795: update target 'fips140.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c fips140.cpp
+build fips140.o: fips140_o_rule fips140.cpp 
+rule filters_o_rule
+  command = GNUmakefile:1795: update target 'filters.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c filters.cpp
+build filters.o: filters_o_rule filters.cpp 
+rule files_o_rule
+  command = GNUmakefile:1795: update target 'files.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c files.cpp
+build files.o: files_o_rule files.cpp 
+rule esign_o_rule
+  command = GNUmakefile:1795: update target 'esign.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c esign.cpp
+build esign.o: esign_o_rule esign.cpp 
+rule eprecomp_o_rule
+  command = GNUmakefile:1795: update target 'eprecomp.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c eprecomp.cpp
+build eprecomp.o: eprecomp_o_rule eprecomp.cpp 
+rule emsa2_o_rule
+  command = GNUmakefile:1795: update target 'emsa2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c emsa2.cpp
+build emsa2.o: emsa2_o_rule emsa2.cpp 
+rule elgamal_o_rule
+  command = GNUmakefile:1795: update target 'elgamal.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c elgamal.cpp
+build elgamal.o: elgamal_o_rule elgamal.cpp 
+rule ecp_o_rule
+  command = GNUmakefile:1795: update target 'ecp.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ecp.cpp
+build ecp.o: ecp_o_rule ecp.cpp 
+rule eccrypto_o_rule
+  command = GNUmakefile:1795: update target 'eccrypto.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c eccrypto.cpp
+build eccrypto.o: eccrypto_o_rule eccrypto.cpp 
+rule ec2n_o_rule
+  command = GNUmakefile:1795: update target 'ec2n.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ec2n.cpp
+build ec2n.o: ec2n_o_rule ec2n.cpp 
+rule eax_o_rule
+  command = GNUmakefile:1795: update target 'eax.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c eax.cpp
+build eax.o: eax_o_rule eax.cpp 
+rule dsa_o_rule
+  command = GNUmakefile:1795: update target 'dsa.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c dsa.cpp
+build dsa.o: dsa_o_rule dsa.cpp 
+rule donna_64_o_rule
+  command = GNUmakefile:1795: update target 'donna_64.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c donna_64.cpp
+build donna_64.o: donna_64_o_rule donna_64.cpp 
+rule donna_32_o_rule
+  command = GNUmakefile:1795: update target 'donna_32.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c donna_32.cpp
+build donna_32.o: donna_32_o_rule donna_32.cpp 
+rule dll_o_rule
+  command = GNUmakefile:1795: update target 'dll.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c dll.cpp
+build dll.o: dll_o_rule dll.cpp 
+rule dh2_o_rule
+  command = GNUmakefile:1795: update target 'dh2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c dh2.cpp
+build dh2.o: dh2_o_rule dh2.cpp 
+rule dh_o_rule
+  command = GNUmakefile:1795: update target 'dh.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c dh.cpp
+build dh.o: dh_o_rule dh.cpp 
+rule dessp_o_rule
+  command = GNUmakefile:1795: update target 'dessp.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c dessp.cpp
+build dessp.o: dessp_o_rule dessp.cpp 
+rule des_o_rule
+  command = GNUmakefile:1795: update target 'des.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c des.cpp
+build des.o: des_o_rule des.cpp 
+rule default_o_rule
+  command = GNUmakefile:1795: update target 'default.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c default.cpp
+build default.o: default_o_rule default.cpp 
+rule darn_o_rule
+  command = GNUmakefile:1664: update target 'darn.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c darn.cpp
+build darn.o: darn_o_rule darn.cpp 
+rule crc_o_rule
+  command = GNUmakefile:1795: update target 'crc.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c crc.cpp
+build crc.o: crc_o_rule crc.cpp 
+rule cmac_o_rule
+  command = GNUmakefile:1795: update target 'cmac.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c cmac.cpp
+build cmac.o: cmac_o_rule cmac.cpp 
+rule channels_o_rule
+  command = GNUmakefile:1795: update target 'channels.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c channels.cpp
+build channels.o: channels_o_rule channels.cpp 
+rule cham_o_rule
+  command = GNUmakefile:1795: update target 'cham.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c cham.cpp
+build cham.o: cham_o_rule cham.cpp 
+rule chachapoly_o_rule
+  command = GNUmakefile:1795: update target 'chachapoly.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c chachapoly.cpp
+build chachapoly.o: chachapoly_o_rule chachapoly.cpp 
+rule chacha_o_rule
+  command = GNUmakefile:1795: update target 'chacha.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c chacha.cpp
+build chacha.o: chacha_o_rule chacha.cpp 
+rule ccm_o_rule
+  command = GNUmakefile:1795: update target 'ccm.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ccm.cpp
+build ccm.o: ccm_o_rule ccm.cpp 
+rule cbcmac_o_rule
+  command = GNUmakefile:1795: update target 'cbcmac.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c cbcmac.cpp
+build cbcmac.o: cbcmac_o_rule cbcmac.cpp 
+rule casts_o_rule
+  command = GNUmakefile:1795: update target 'casts.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c casts.cpp
+build casts.o: casts_o_rule casts.cpp 
+rule cast_o_rule
+  command = GNUmakefile:1795: update target 'cast.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c cast.cpp
+build cast.o: cast_o_rule cast.cpp 
+rule camellia_o_rule
+  command = GNUmakefile:1795: update target 'camellia.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c camellia.cpp
+build camellia.o: camellia_o_rule camellia.cpp 
+rule blumshub_o_rule
+  command = GNUmakefile:1795: update target 'blumshub.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c blumshub.cpp
+build blumshub.o: blumshub_o_rule blumshub.cpp 
+rule blowfish_o_rule
+  command = GNUmakefile:1795: update target 'blowfish.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c blowfish.cpp
+build blowfish.o: blowfish_o_rule blowfish.cpp 
+rule blake2_o_rule
+  command = GNUmakefile:1795: update target 'blake2.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c blake2.cpp
+build blake2.o: blake2_o_rule blake2.cpp 
+rule bfinit_o_rule
+  command = GNUmakefile:1795: update target 'bfinit.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c bfinit.cpp
+build bfinit.o: bfinit_o_rule bfinit.cpp 
+rule basecode_o_rule
+  command = GNUmakefile:1795: update target 'basecode.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c basecode.cpp
+build basecode.o: basecode_o_rule basecode.cpp 
+rule base64_o_rule
+  command = GNUmakefile:1795: update target 'base64.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c base64.cpp
+build base64.o: base64_o_rule base64.cpp 
+rule base32_o_rule
+  command = GNUmakefile:1795: update target 'base32.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c base32.cpp
+build base32.o: base32_o_rule base32.cpp 
+rule authenc_o_rule
+  command = GNUmakefile:1795: update target 'authenc.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c authenc.cpp
+build authenc.o: authenc_o_rule authenc.cpp 
+rule asn_o_rule
+  command = GNUmakefile:1795: update target 'asn.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c asn.cpp
+build asn.o: asn_o_rule asn.cpp 
+rule ariatab_o_rule
+  command = GNUmakefile:1795: update target 'ariatab.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c ariatab.cpp
+build ariatab.o: ariatab_o_rule ariatab.cpp 
+rule aria_o_rule
+  command = GNUmakefile:1795: update target 'aria.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c aria.cpp
+build aria.o: aria_o_rule aria.cpp 
+rule arc4_o_rule
+  command = GNUmakefile:1795: update target 'arc4.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c arc4.cpp
+build arc4.o: arc4_o_rule arc4.cpp 
+rule allocate_o_rule
+  command = GNUmakefile:1795: update target 'allocate.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c allocate.cpp
+build allocate.o: allocate_o_rule allocate.cpp 
+rule algparam_o_rule
+  command = GNUmakefile:1795: update target 'algparam.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c algparam.cpp
+build algparam.o: algparam_o_rule algparam.cpp 
+rule algebra_o_rule
+  command = GNUmakefile:1795: update target 'algebra.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c algebra.cpp
+build algebra.o: algebra_o_rule algebra.cpp 
+rule adler32_o_rule
+  command = GNUmakefile:1795: update target 'adler32.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c adler32.cpp
+build adler32.o: adler32_o_rule adler32.cpp 
+rule 3way_o_rule
+  command = GNUmakefile:1795: update target '3way.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c 3way.cpp
+build 3way.o: 3way_o_rule 3way.cpp 
+rule integer_o_rule
+  command = GNUmakefile:1795: update target 'integer.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c integer.cpp
+build integer.o: integer_o_rule integer.cpp 
+rule cpu_o_rule
+  command = GNUmakefile:1795: update target 'cpu.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c cpu.cpp
+build cpu.o: cpu_o_rule cpu.cpp 
+rule cryptlib_o_rule
+  command = GNUmakefile:1795: update target 'cryptlib.o' due to: target does not exist && clang++ -DNDEBUG -DCRYPTOPP_DISABLE_ASM -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld -c cryptlib.cpp
+build cryptlib.o: cryptlib_o_rule cryptlib.cpp 
+rule libcryptopp_a_rule
+  command = GNUmakefile:1486: update target 'libcryptopp.a' due to: target does not exist && /usr/bin/libtool -static -o libcryptopp.a cryptlib.o cpu.o integer.o 3way.o adler32.o algebra.o algparam.o allocate.o arc4.o aria.o ariatab.o asn.o authenc.o base32.o base64.o basecode.o bfinit.o blake2.o blowfish.o blumshub.o camellia.o cast.o casts.o cbcmac.o ccm.o chacha.o chachapoly.o cham.o channels.o cmac.o crc.o darn.o default.o des.o dessp.o dh.o dh2.o dll.o donna_32.o donna_64.o dsa.o eax.o ec2n.o eccrypto.o ecp.o elgamal.o emsa2.o eprecomp.o esign.o files.o filters.o fips140.o fipstest.o gcm.o gf256.o gf2_32.o gf2n.o gfpcrypt.o gost.o gzip.o hc128.o hc256.o hex.o hight.o hmac.o hrtimer.o ida.o idea.o iterhash.o kalyna.o kalynatab.o keccak.o keccak_core.o lea.o lsh256.o lsh512.o luc.o mars.o marss.o md2.o md4.o md5.o misc.o modes.o mqueue.o mqv.o nbtheory.o oaep.o osrng.o padlkrng.o panama.o pkcspad.o poly1305.o polynomi.o primetab.o pssr.o pubkey.o queue.o rabbit.o rabin.o randpool.o rc2.o rc5.o rc6.o rdrand.o rdtables.o rijndael.o ripemd.o rng.o rsa.o rw.o safer.o salsa.o scrypt.o seal.o seed.o serpent.o sha.o sha3.o shacal2.o shake.o shark.o sharkbox.o simeck.o simon.o skipjack.o sm3.o sm4.o sosemanuk.o speck.o square.o squaretb.o strciphr.o tea.o tftables.o threefish.o tiger.o tigertab.o ttmac.o tweetnacl.o twofish.o vmac.o wake.o whrlpool.o xed25519.o xtr.o xtrcrypt.o xts.o zdeflate.o zinflate.o zlib.o && ranlib libcryptopp.a
+build libcryptopp.a: libcryptopp_a_rule cryptlib.o cpu.o integer.o 3way.o adler32.o algebra.o algparam.o allocate.o arc4.o aria.o ariatab.o asn.o authenc.o base32.o base64.o basecode.o bfinit.o blake2.o blowfish.o blumshub.o camellia.o cast.o casts.o cbcmac.o ccm.o chacha.o chachapoly.o cham.o channels.o cmac.o crc.o darn.o default.o des.o dessp.o dh.o dh2.o dll.o donna_32.o donna_64.o dsa.o eax.o ec2n.o eccrypto.o ecp.o elgamal.o emsa2.o eprecomp.o esign.o files.o filters.o fips140.o fipstest.o gcm.o gf256.o gf2_32.o gf2n.o gfpcrypt.o gost.o gzip.o hc128.o hc256.o hex.o hight.o hmac.o hrtimer.o ida.o idea.o iterhash.o kalyna.o kalynatab.o keccak.o keccak_core.o lea.o lsh256.o lsh512.o luc.o mars.o marss.o md2.o md4.o md5.o misc.o modes.o mqueue.o mqv.o nbtheory.o oaep.o osrng.o padlkrng.o panama.o pkcspad.o poly1305.o polynomi.o primetab.o pssr.o pubkey.o queue.o rabbit.o rabin.o randpool.o rc2.o rc5.o rc6.o rdrand.o rdtables.o rijndael.o ripemd.o rng.o rsa.o rw.o safer.o salsa.o scrypt.o seal.o seed.o serpent.o sha.o sha3.o shacal2.o shake.o shark.o sharkbox.o simeck.o simon.o skipjack.o sm3.o sm4.o sosemanuk.o speck.o square.o squaretb.o strciphr.o tea.o tftables.o threefish.o tiger.o tigertab.o ttmac.o tweetnacl.o twofish.o vmac.o wake.o whrlpool.o xed25519.o xtr.o xtrcrypt.o xts.o zdeflate.o zinflate.o zlib.o osx_warning 
+rule cryptest_exe_rule
+  command = GNUmakefile:1511: update target 'cryptest.exe' due to: target does not exist && clang++ -o cryptest.exe -g2 -fPIC -fno-common -pipe -march=apple-m1 -mcpu=apple-m1 -mfpu=neon -mfloat-abi=hard -O3 -mllvm -vectorize-loops -flto -fprofile-generate -fuse-ld=lld adhoc.o test.o bench1.o bench2.o bench3.o datatest.o dlltest.o fipsalgt.o validat0.o validat1.o validat2.o validat3.o validat4.o validat5.o validat6.o validat7.o validat8.o validat9.o validat10.o regtest1.o regtest2.o regtest3.o regtest4.o ./libcryptopp.a  
+build cryptest.exe: cryptest_exe_rule libcryptopp.a adhoc.o test.o bench1.o bench2.o bench3.o datatest.o dlltest.o fipsalgt.o validat0.o validat1.o validat2.o validat3.o validat4.o validat5.o validat6.o validat7.o validat8.o validat9.o validat10.o regtest1.o regtest2.o regtest3.o regtest4.o osx_warning 
